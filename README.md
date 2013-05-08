@@ -1,4 +1,4 @@
-# grunt-md5-manifest [![Build Status](https://secure.travis-ci.org/gseguin/grunt-md5-manifest.png?branch=master)](http://travis-ci.org/gseguin/grunt-md5-manifest)
+Use: https://github.com/gseguin/grunt-hash-manifest instead
 
 > Creates an MD5 manifest
 
